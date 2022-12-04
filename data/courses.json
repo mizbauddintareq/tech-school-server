@@ -1,0 +1,70 @@
+[
+  {
+    "id": "01",
+    "name": "Learn JavaScript",
+    "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+    "skills": [
+      "Build core programming concepts",
+      "Learn object-oriented concepts",
+      "Read and write JavaScript"
+    ],
+    "thumb": "https://i.ibb.co/Rh80cLc/js.jpg"
+  },
+
+  {
+    "id": "02",
+    "name": "Learn Python 3",
+    "description": "If you’re looking for a programming language that’s flexible and easy to read, try learning Python. It’s one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance.",
+    "skills": [
+      "Write Python 3 programs",
+      "Simplify the code you write",
+      "Take your skills off-platform"
+    ],
+    "thumb": "https://i.ibb.co/FVtMWTS/python.png"
+  },
+
+  {
+    "id": "03",
+    "name": "Learn HTML",
+    "description": "Fun fact: all websites use HTML — even this one. It’s a fundamental part of every web developer’s toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers",
+    "skills": [
+      "Structure pages with HTML",
+      "Present data with tables",
+      "Write cleaner HTML"
+    ],
+    "thumb": "https://i.ibb.co/JyrBqsd/html.png"
+  },
+  {
+    "id": "04",
+    "name": "Learn SQL",
+    "description": "Information is all around us. You can put it to use by learning SQL basics. Used in data science, analytics, and engineering, SQL makes it easy to work with data and make more informed strategy, operations, and business decisions. It’s a helpful skill for anyone who works with data (even in non-tech roles). In this SQL course, you’ll learn how to manage large datasets and analyze real data.",
+    "skills": [
+      "Work with databases using SQL",
+      "Create queries for tables",
+      "Build SQL projects"
+    ],
+    "thumb": "https://i.ibb.co/ng8s91V/sql.png"
+  },
+  {
+    "id": "05",
+    "name": "Learn C++",
+    "description": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+    "skills": [
+      "Build core programming concepts",
+      "Understand pointers and memory",
+      "Build C++ projects"
+    ],
+    "thumb": "https://i.ibb.co/2WjtYr9/C-plus-plus-online-training-nareshit.jpg"
+  },
+  {
+    "id": "06",
+    "name": "Learn PHP",
+    "description": "PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you’ll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP.",
+    "skills": [
+      "Fundamental programming concepts",
+      "Use PHP with HTML forms",
+      "Create classes and objects"
+    ],
+    "thumb": "https://i.ibb.co/mJt7mw2/php.png"
+  }
+]
