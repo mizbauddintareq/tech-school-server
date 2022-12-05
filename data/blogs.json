@@ -1,0 +1,18 @@
+[
+  {
+    "question": "what is cors?",
+    "answer": "Cross-origin resource sharing is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos."
+  },
+  {
+    "question": "Why are you using firebase? What other options do you have to implement authentication?",
+    "answer": "Firebase Authentication aims to make building secure authentication systems easy, while improving the sign-in and onboarding experience for end users. It provides an end-to-end identity solution, supporting email and password accounts, phone auth, and Google, Twitter, Facebook, and GitHub login, and more. Usually, authentication by a server entails the use of a user name and password. Other ways to authenticate can be through cards, retina scans, voice recognition, and fingerprints."
+  },
+  {
+    "question": "How does the private route work?",
+    "answer": "The react private route component renders child components ( children ) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property."
+  },
+  {
+    "question": "What is Node? How does Node work?",
+    "answer": "Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. It is used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node. js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive."
+  }
+]
